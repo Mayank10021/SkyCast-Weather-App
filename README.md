@@ -46,18 +46,18 @@ react-weather-app-master/
 └── README.md            # Documentation
 
 ```
-🚀 Getting Started
+# 🚀 Getting Started
 
 Follow these steps to run the project locally:
 
-1. Clone the Repository
+## 1. Clone the Repository
 git clone https://github.com/yourusername/SkyCast-Weather-App.git
 cd SkyCast-Weather-App
 
-2. Install Dependencies
+## 2. Install Dependencies
 npm install
 
-3. Start the Development Server
+## 3. Start the Development Server
 npm start
 
 
@@ -65,7 +65,7 @@ The app will run on:
 
 http://localhost:3000
 
-🔑 API Key Setup
+### 🔑 API Key Setup
 
 This project uses a Weather API such as OpenWeatherMap.
 
@@ -78,11 +78,11 @@ Add it inside your project (example):
 
 const API_KEY = "your_api_key_here";
 
-📸 Preview
+### 📸 Preview
 
 A responsive React weather application that provides real-time weather information for any city.
 
-🌟 Future Improvements
+### 🌟 Future Improvements
 
 Add 7-day weather forecast
 
@@ -94,8 +94,8 @@ Improve UI with animations
 
 Add weather icons dynamically
 
-📜 License
+### 📜 License
 
 This project is open-source and available under the MIT License.
 
-⭐ If you like this project, don’t forget to star the repository!
+### ⭐ If you like this project, don’t forget to star the repository!
